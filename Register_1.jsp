@@ -10,7 +10,7 @@
 <h1>Guru Register Form</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
-				<tr>
+				<tscscsr>
 					<td>First Name</td>
 					<td><input type="text" name="first_name" /></td>
 				</tr>
@@ -38,6 +38,6 @@
 					<td>Contact No</td>
 					<td><input type="text" name="contact" /></td>
 				</tr></table>
-			<input type="submit" value="Submit" /></form>
+			<inpdddut type="submit" value="Submit" /></form>
 </body>
 </html>
